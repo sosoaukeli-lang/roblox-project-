@@ -1,0 +1,12 @@
+{
+  "name": "SpaceGame",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": { "$className": "ServerScriptService", "$ignoreUnknownInstances": true, "$path": "src/ServerScriptService" },
+    "ServerStorage": { "$className": "ServerStorage", "$ignoreUnknownInstances": true, "$path": "src/ServerStorage" },
+    "ReplicatedStorage": { "$className": "ReplicatedStorage", "$ignoreUnknownInstances": true, "$path": "src/ReplicatedStorage" },
+    "ReplicatedFirst": { "$className": "ReplicatedFirst", "$ignoreUnknownInstances": true, "$path": "src/ReplicatedFirst" },
+    "StarterGui": { "$className": "StarterGui", "$ignoreUnknownInstances": true, "$path": "src/StarterGui" },
+    "StarterPlayer": { "$className": "StarterPlayer", "$ignoreUnknownInstances": true, "$path": "src/StarterPlayer" }
+  }
+}
